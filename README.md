@@ -58,6 +58,7 @@ Split and merge HSV Image
 
 ### OUTPUT:
 
+![image](https://github.com/imthiyas19/COLOR_CONVERSIONS_OF-IMAGE/assets/120353416/4158a10d-e59f-4526-b4cd-8d8098706b6f)
 
  
   </td>
@@ -76,6 +77,7 @@ Split and merge HSV Image
   <td>
 
 ### OUTPUT:
+![image](https://github.com/imthiyas19/COLOR_CONVERSIONS_OF-IMAGE/assets/120353416/6b8f0bd5-30bb-4d37-b8cd-e2e98b09dbc4)
 
 
   </td>
@@ -93,6 +95,7 @@ Split and merge HSV Image
   <td>
 
 ### OUTPUT:
+![image](https://github.com/imthiyas19/COLOR_CONVERSIONS_OF-IMAGE/assets/120353416/ce66cf61-9784-42a0-aa86-2127e3bf09b4)
 
 
   </td>
@@ -119,6 +122,7 @@ Split and merge HSV Image
   <td width="50%">
 
 ### OUTPUT:
+![image](https://github.com/imthiyas19/COLOR_CONVERSIONS_OF-IMAGE/assets/120353416/3e7427c4-c68a-4b4f-bd48-5284f2f36e14)
 
   </td>
   </tr>
@@ -141,6 +145,7 @@ Split and merge HSV Image
   <td>
     
 ### OUTPUT:
+![image](https://github.com/imthiyas19/COLOR_CONVERSIONS_OF-IMAGE/assets/120353416/b6382e28-a59c-4f5d-be9a-8f023c874573)
 
   </td>
   </tr>
@@ -172,6 +177,8 @@ cv2.destroyAllWindows()
 ### OUTPUT:
 
 
+![image](https://github.com/imthiyas19/COLOR_CONVERSIONS_OF-IMAGE/assets/120353416/4e4b70c9-67f3-4faf-a7ac-96718e0f65d1)
+
 ### vii) HSV to RGB and BGR
 ```Python
 import cv2
@@ -192,6 +199,7 @@ cv2.destroyAllWindows()
 ```
 
 ### OUTPUT:
+![image](https://github.com/imthiyas19/COLOR_CONVERSIONS_OF-IMAGE/assets/120353416/921774f1-9ff1-4822-9ffe-2e7e9cb85597)
 
 
 
@@ -213,6 +221,7 @@ cv2.destroyAllWindows()
 ```
 
 ### OUTPUT:
+![image](https://github.com/imthiyas19/COLOR_CONVERSIONS_OF-IMAGE/assets/120353416/84d22cb6-85ae-4810-8a27-f35cd629c63a)
 
 
 ### ix) Split and merge RGB Image
@@ -238,6 +247,7 @@ cv2.destroyAllWindows()
 
 ### OUTPUT:
 
+![image](https://github.com/imthiyas19/COLOR_CONVERSIONS_OF-IMAGE/assets/120353416/2a5de0a3-d835-4ac9-81be-3ff2628aa5a9)
 
 
 ### x) Split and merge HSV Image
@@ -261,6 +271,7 @@ cv2.destroyAllWindows()
 ```
 
 ### OUTPUT:
+![image](https://github.com/imthiyas19/COLOR_CONVERSIONS_OF-IMAGE/assets/120353416/64434c31-21e4-4efe-872a-409a88eee52f)
 
 ## Result:
 Thus the images are read, displayed, and written ,and color conversion was performed between RGB, HSV and YCbCr color models successfully using the python program.
